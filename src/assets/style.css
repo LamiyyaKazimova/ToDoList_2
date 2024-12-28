@@ -82,8 +82,6 @@ padding: 6px;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    position: relative;
-    top: 20px;
     background-color: aliceblue;
     padding: 15px;
 }
